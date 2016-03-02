@@ -1,1 +1,1 @@
-# COMP310
+McGill Operating Systems Winter 2015
