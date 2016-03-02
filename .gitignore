@@ -1,0 +1,12 @@
+*.pdf
+*.tar
+*.pptx
+FS_Tutorial/
+*.zip
+Finals/
+Midterms/
+Pthread_Tutorial/
+Tutorial/
+*.o
+*.a
+*.out
